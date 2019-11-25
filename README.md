@@ -464,6 +464,12 @@ demo-project
 进一步整理，将代码独立一个目录，部署文件单独一个目录。顺便集成k8s部署。
 
 
+
+### 一个实际的例子
+
+- https://github.com/mingz2013/demo-todos-go-micro
+- https://github.com/mingz2013/demo-todos-vue
+
 ### 一个模板参考
 
 
